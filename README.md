@@ -1,14 +1,16 @@
-# IDM-trial-reset
+# IDM trial reset
 
-IDM Trial Reset.zip
+[![GitHub release](https://img.shields.io/github/release/J2TeaM/idm-trial-reset.svg?maxAge=2592000)](https://github.com/J2TeaM/idm-trial-reset/releases/latest)
+[![license](https://img.shields.io/github/license/J2TeaM/idm-trial-reset.svg?maxAge=2592000)](https://github.com/J2TeaM/idm-trial-reset/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
 
-CRC-32: 6A992C50
-MD5: 016866100C1BEFF73C59F5E02323BE46
-SHA-1: 60AA90998FDE73E03FFBE42BF899793B32E2EE65
-SHA-256: 372DC10FBE87C1744D2852877E0D36D37E034B5507F868DE61C8BA6A46D0E012
-IDM Trial Reset.exe
+Use IDM forever without cracking. If you can, [buy a license](https://j2team.dev/go/32449752) to support the developer.
 
-CRC-32: D3E76A9D
-MD5: 064F82094AE6A6E22C28A6F1EF868A26
-SHA-1: E034CF1FA855EEF53FD46A5EC213ADA99E2ECE19
-SHA-256: A2D2B22CD0D5628976EB5996A8B20F3B5AC468907910DBC3F826F1069D435587
+## Screenshot
+
+![idm-trial-reset](https://i.imgur.com/xUGaHMK.gif)
+
+## Download
+
+You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/releases/latest).
+
